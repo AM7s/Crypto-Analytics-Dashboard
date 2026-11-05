@@ -54,5 +54,5 @@
 
 1. **Клонируйте репозиторий** (или скачайте архив):
    ```bash
-   git clone Crypto-Analytics-Dashboard
+   git clone https://github.com/AM7s/Crypto-Analytics-Dashboard.git
    cd crypto-dashboard
